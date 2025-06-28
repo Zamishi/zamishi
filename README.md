@@ -81,7 +81,7 @@
   <a href="https://www.linkedin.com/in/amishisharma100803/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:amishi140596@gmail.com">
+  <a href="amishi140596@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://drive.google.com/your-resume-link">
