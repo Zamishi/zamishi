@@ -53,7 +53,7 @@
 
 ---
 
-### 📊 [Superstore Sales Dashboard](https://github.com/zamishi/superstore-dashboard)
+### 📊 [Superstore Sales Dashboard](https://github.com/zamishi/superstore-sales-dashboard)
 > A business analytics dashboard for tracking KPIs and revenue trends using sales data.
 - **Tech Used:** Excel · Power BI
 - 📈 Dynamic filters | 🛒 Regional analysis | 💹 KPI tracking
