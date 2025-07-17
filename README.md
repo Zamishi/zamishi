@@ -84,7 +84,7 @@
   <a href="amishi140596@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/your-resume-link">
+  <a href="https://flowcv.com/resume/wqg9u3ehj6jl">
     <img src="https://img.shields.io/badge/View%20Resume-grey?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
